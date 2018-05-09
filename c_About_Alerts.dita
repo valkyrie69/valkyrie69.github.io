@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA 1.2 Concept//EN" "concept.dtd" [
+]>
+<concept id="concept_5c006910-8f28-4472-86c0-39428a7d6e64"><title>About Alerts</title><shortdesc>Alerts allow you to monitor managed devices, VPN connections, and SIMs by providing information such as current status (online, offline, created, and so on).</shortdesc><prolog><author>Your Name Here</author></prolog><conbody><section>
+            <p/>
+        </section></conbody><related-links><link outputclass="dw-xpub:edge_software_and_services/machine" href="c_Device_Detail_Service.dita#concept_956f9fc5-e3e4-4113-a9da-7dbd5116ded2"></link><link href="r_DeviceInfo_Edge_Alerts.dita#reference_2ca22571-0427-4482-b05c-5d04c4bde4d3"></link></related-links></concept>
